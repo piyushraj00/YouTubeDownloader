@@ -1,13 +1,13 @@
 {
   "name": "YouTube Video Downloader",
   "description": "A telegram bot To Download Youtube Video ",
-  "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
+  "logo": "https://telegra.ph/file/88ce3d689d83e318bfe04.jpg",
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
+  "repository": "https://github.com/piyushraj00/YouTubeVideoDownloaderpack",
   "success_url": "https://t.me/youtubdlbot",
-  "website": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
+  "website": "https://github.com/piyushraj00/YouTubeVideoDownloaderpack",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
