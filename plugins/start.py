@@ -1,5 +1,5 @@
 from pyrogram import Client, Filters, StopPropagation, InlineKeyboardButton, InlineKeyboardMarkup
-
+from aiogram.utils.callback_data import CallbackData
 
 @Client.on_message(Filters.command(["start"]), group=-2)
 async def start(client, message):
